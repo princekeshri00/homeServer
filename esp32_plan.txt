@@ -1,0 +1,17 @@
+    PIN   |        Purpose
+-----------------------------------
+    D14   |   Main Power Relay     
+    D12   |   Yellow Led        
+    D13   |   Red Led       
+    D35   |   15B20 INT TEMP       
+    D27   |   DHT11 TEMP & HUMIDITY         
+    D26   |   Passive Buzzer       
+
+
+-> Current pin config given above
+-> Connect Cooling Fan to 3.3V Power Rail
+-> Connect Power Relay to 5V Power Rail
+
+
+
+Automation Script Under Devlopment
